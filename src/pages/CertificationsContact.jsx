@@ -58,7 +58,7 @@ function CertificationsContact() {
               <span className="material-symbols-outlined text-primary text-2xl group-hover:glow-primary">router</span>
             </div>
             <div className="flex flex-col gap-2">
-              <span className="font-label text-xs text-primary tracking-widest uppercase">Issued 2025-09-30</span>
+              <span className="font-label text-xs text-primary tracking-widest uppercase">Issued 2025</span>
               <h3 className="font-headline text-xl font-bold text-on-surface leading-tight">Network Security Huawei ICT</h3>
               <p className="font-label text-sm text-on-surface-variant mt-2">Credential ID: EBG20250930000003</p>
             </div>
