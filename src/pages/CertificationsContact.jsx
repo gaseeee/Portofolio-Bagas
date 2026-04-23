@@ -41,7 +41,7 @@ function CertificationsContact() {
               <span className="material-symbols-outlined text-tertiary-container text-2xl group-hover:glow-primary">terminal</span>
             </div>
             <div className="flex flex-col gap-2">
-              <span className="font-label text-xs text-tertiary-container tracking-widest uppercase">Issued 2022</span>
+              <span className="font-label text-xs text-tertiary-container tracking-widest uppercase">Issued 2025</span>
               <h3 className="font-headline text-xl font-bold text-on-surface leading-tight">Red Hat RH124 - RHA</h3>
               <p className="font-label text-sm text-on-surface-variant mt-2">Credential ID: 342df846-dafc-4f2d-9b19-4f5b3319e571</p>
             </div>
@@ -75,7 +75,7 @@ function CertificationsContact() {
               <span className="material-symbols-outlined text-primary text-2xl group-hover:glow-primary">policy</span>
             </div>
             <div className="flex flex-col gap-2">
-              <span className="font-label text-xs text-primary tracking-widest uppercase">Issued 2024</span>
+              <span className="font-label text-xs text-primary tracking-widest uppercase">Issued 2025</span>
               <h3 className="font-headline text-xl font-bold text-on-surface leading-tight">Cybersecurity Komdigi Program</h3>
               <p className="font-label text-sm text-on-surface-variant mt-2">Credential ID: 19511270840-133</p>
             </div>
