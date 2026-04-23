@@ -76,7 +76,7 @@ SIEM On Telegram Bot</h2>
           </div>
           <div className="flex flex-wrap gap-3 mt-auto">
             <span className="font-label text-xs bg-secondary-container text-on-secondary-container px-3 py-1 tracking-wider uppercase">Bcrypt</span>
-            <span className="font-label text-xs bg-secondary-container text-on-secondary-container px-3 py-1 tracking-wider uppercase">OTP Auth</span>
+            <span className="font-label text-xs bg-secondary-container text-on-secondary-container px-3 py-1 tracking-wider uppercase">OTP Authentication</span>
             <span className="font-label text-xs bg-secondary-container text-on-secondary-container px-3 py-1 tracking-wider uppercase">OWASP</span>
           </div>
         </a>
