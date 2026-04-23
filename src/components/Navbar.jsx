@@ -26,7 +26,7 @@ function Navbar() {
 
         {/* Changed from button to anchor tag with Google Drive functionality */}
         <a
-          href="https://drive.google.com/file/d/1BjXC3ZhCpMxAiPo45E8jpg19rq61mq5g/view?usp=sharing"
+          href="https://drive.google.com/file/d/1PSYTUsENGnMW1kkQ4lVNdxCciUC6as4C/view?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
           className="hidden md:flex bg-primary-container text-on-primary-container font-['Inter'] font-bold tracking-tight uppercase px-6 py-2 hover:bg-[#353534] hover:text-primary transition-all duration-300 scale-95 active:scale-90 items-center gap-2 text-sm"

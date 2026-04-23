@@ -47,7 +47,7 @@ function Home() {
               
               {/* Tombol Download Resume (Ganti URL-nya dengan link GDrive kamu) */}
               <a 
-                href="https://drive.google.com/file/d/1BjXC3ZhCpMxAiPo45E8jpg19rq61mq5g/view?usp=sharing" 
+                href="https://drive.google.com/file/d/1PSYTUsENGnMW1kkQ4lVNdxCciUC6as4C/view?usp=drive_link" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-transparent border border-outline-variant/20 text-on-surface px-8 py-4 font-headline font-bold uppercase tracking-widest text-sm hover:bg-surface-container-highest transition-colors flex items-center gap-2 no-underline"
