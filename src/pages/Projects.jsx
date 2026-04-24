@@ -111,7 +111,7 @@ SIEM On Telegram Bot</h2>
         
         {/* Card 4: CTF Write-ups (Medium) */}
         <a 
-          href="https://drive.google.com/file/d/1-3caj4G8ztnLHk1u1GMmGN6XaGQbhfpg/view?usp=sharing" 
+          href="https://drive.google.com/file/d/1rz5pXOfwBOvVRjDDmCTYDS6hVhEJtB4Q/view?usp=sharing" 
           target="_blank" 
           rel="noopener noreferrer"
           className="md:col-span-4 bg-surface-container-low group hover:bg-surface-container transition-colors duration-300 relative flex flex-col justify-between p-8 border-l-2 border-transparent hover:border-tertiary-container cursor-pointer block no-underline"
@@ -126,7 +126,7 @@ SIEM On Telegram Bot</h2>
           <div>
             <h2 className="font-label text-2xl font-bold text-on-surface mb-4 group-hover:text-tertiary-fixed-dim transition-colors">CTF Participations</h2>
             <p className="font-body text-on-surface-variant text-base leading-relaxed mb-8">
-              I am an active CTF competitor with experience in competitions such as NETCOMP, C2C, and various other cybersecurity events, specializing in vulnerability exploitation and system analysis.
+              I am an active CTF competitor with experience in competitions such as NETCOMP, C2C, Waskita Manunggal Siber and various other cybersecurity events, specializing in vulnerability exploitation and system analysis.
             </p>
           </div>
           <div className="flex flex-wrap gap-3">
