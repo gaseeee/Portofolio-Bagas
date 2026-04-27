@@ -21,7 +21,7 @@ function Projects() {
         
         {/* Card 1: Automated SOC Incident Report (Large) */}
         <a 
-          href="https://drive.google.com/file/d/1ejKR9-UvIVe7hYLCK7YrEr1dHJ17owQp/view?usp=drive_link" 
+          href="https://drive.google.com/file/d/1ejKR9-UvIVe7hYLCK7YrEr1dHJ17owQp/view?usp=sharing" 
           target="_blank" 
           rel="noopener noreferrer"
           className="md:col-span-8 bg-surface-container-low group hover:bg-surface-container transition-colors duration-300 relative overflow-hidden flex flex-col justify-between p-8 border-l-2 border-transparent hover:border-primary-container cursor-pointer block no-underline"
@@ -138,7 +138,7 @@ SIEM On Telegram Bot</h2>
         
         {/* Card 5: SQL Injection Simulation (Full Width Bottom) */}
         <a 
-          href="/link-sqli" 
+          href="https://github.com/gaseonetop/LAB" 
           target="_blank" 
           rel="noopener noreferrer"
           className="md:col-span-12 bg-surface-container-low group hover:bg-surface-container transition-colors duration-300 relative flex flex-col md:flex-row gap-8 p-8 border-l-2 border-transparent hover:border-primary-container items-center cursor-pointer block no-underline"
