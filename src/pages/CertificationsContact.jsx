@@ -49,7 +49,7 @@ function CertificationsContact() {
           
           {/* Cert Card 3 */}
           <a 
-            href="https://drive.google.com/file/d/13ZBreat9aO8qc6sbtRhO_WUe4mSGxv83/view?usp=drive_link" 
+            href="https://drive.google.com/file/d/13ZBreat9aO8qc6sbtRhO_WUe4mSGxv83/view?usp=sharing" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-surface-container-low p-6 flex flex-col gap-6 hover:bg-surface-container transition-colors border-l-2 border-transparent hover:border-primary group cursor-pointer"
@@ -66,7 +66,7 @@ function CertificationsContact() {
           
           {/* Cert Card 4 */}
           <a 
-            href="https://drive.google.com/file/d/1dO-47lrkR1ohm5B-UCSBPKj54QXvgp5H/view?usp=drive_link" 
+            href="https://drive.google.com/file/d/1dO-47lrkR1ohm5B-UCSBPKj54QXvgp5H/view?usp=sharing" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-surface-container-low p-6 flex flex-col gap-6 hover:bg-surface-container transition-colors border-l-2 border-transparent hover:border-primary group cursor-pointer"
@@ -83,7 +83,7 @@ function CertificationsContact() {
 
           {/* Cert Card 5 */}
           <a 
-            href="https://drive.google.com/file/d/1JFljAKphY758XyLkrIyQvVXB7ef1vg1y/view?usp=drive_link" 
+            href="https://drive.google.com/file/d/1JFljAKphY758XyLkrIyQvVXB7ef1vg1y/view?usp=sharing" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-surface-container-low p-6 flex flex-col gap-6 hover:bg-surface-container transition-colors border-l-2 border-transparent hover:border-tertiary group cursor-pointer"
